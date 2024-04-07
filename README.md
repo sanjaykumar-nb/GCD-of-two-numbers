@@ -15,6 +15,9 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```
+# Program Name : Find the GCD of two numbers
+# Name : SANJAYKUMAR N B
+# Register Number : 212223230189
 def gcd():
     n1,n2=int(input()),int(input())
     if n1>n2:
